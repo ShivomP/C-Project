@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{754D0584-D80D-4D2D-9EA4-0E01A3070250}|Default">
-  <MonoDevelop.Ide.ItemProperties.C_220Crash_220Course FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C Crash Course/Program.cs">
+    <Files>
+      <File FileName="C Crash Course/Program.cs" Line="18" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Number Guesser" expanded="True" selected="True">
+            <Node name="C Crash Course" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.C_220Crash_220Course PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

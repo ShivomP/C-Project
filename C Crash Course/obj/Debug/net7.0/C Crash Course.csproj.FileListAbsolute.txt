@@ -1,0 +1,15 @@
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/bin/Debug/net7.0/C Crash Course
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/bin/Debug/net7.0/C Crash Course.deps.json
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/bin/Debug/net7.0/C Crash Course.runtimeconfig.json
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/bin/Debug/net7.0/C Crash Course.dll
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/bin/Debug/net7.0/C Crash Course.pdb
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/obj/Debug/net7.0/C Crash Course.csproj.AssemblyReference.cache
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/obj/Debug/net7.0/C Crash Course.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/obj/Debug/net7.0/C Crash Course.AssemblyInfoInputs.cache
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/obj/Debug/net7.0/C Crash Course.AssemblyInfo.cs
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/obj/Debug/net7.0/C Crash Course.csproj.CoreCompileInputs.cache
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/obj/Debug/net7.0/C Crash Course.dll
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/obj/Debug/net7.0/refint/C Crash Course.dll
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/obj/Debug/net7.0/C Crash Course.pdb
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/obj/Debug/net7.0/C Crash Course.genruntimeconfig.cache
+/Users/shivompaudel/Downloads/Number Guesser/C Crash Course/obj/Debug/net7.0/ref/C Crash Course.dll
